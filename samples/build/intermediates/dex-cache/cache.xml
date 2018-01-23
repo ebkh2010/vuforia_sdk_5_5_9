@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ebi/Documents/vuforia-sdk-android-5-5-9/samples/app/vuforia-sdk-android-5-5-9/build/java/vuforia/Vuforia.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f5b9729417d9e86d9bba6068e4a84f05ace53fd4">
+        <dex dex="/Users/ebi/Documents/vuforia-sdk-android-5-5-9/samples/app/build/intermediates/pre-dexed/debug/Vuforia-21dab103676fc0257f2fd4e1fee2d1818422e25d.jar" />
+    </item>
+
+</items>
